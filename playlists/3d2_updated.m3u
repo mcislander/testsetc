@@ -1,0 +1,1063 @@
+#EXTM3U
+#EXTINF:-1,===== Live =====
+#
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="Live",TSN4 HD
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Live",Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Family_Logo_%282014%29.svg/1280px-Discovery_Family_Logo_%282014%29.svg.png" group-title="Live",Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png" group-title="Live",TSN5 HD
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD" tvg-logo="https://www.pikpng.com/pngl/b/501-5019838_file-trutv-2014-svg-trutv-logo-black-and.png" group-title="Live",truTV USA Eastern HD
+https://tvpass.org/live/truTVEast/hd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1280px-TSN1.svg.png" group-title="Live",TSN1 SD
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1280px-TSN1.svg.png" group-title="Live",TSN1 HD
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TSN2_HD.png" group-title="Live",TSN2 SD
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TSN2_HD.png" group-title="Live",TSN2 HD
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/960px-TSN3.svg.png" group-title="Live",TSN3 SD
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/960px-TSN3.svg.png" group-title="Live",TSN3 HD
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="Live",TSN4 SD
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png" group-title="Live",Destination America
+https://tvpass.org/live/DestinationAmerica/sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png" group-title="Live",TSN5 SD
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/960px-Discovery_Life_logo.svg.png" group-title="Live",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1280px-TV_Land_2015_logo.svg.png" group-title="Live",TV Land Eastern SD
+https://tvpass.org/live/tv-land-eastern/sd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1280px-TV_Land_2015_logo.svg.png" group-title="Live",TV Land Eastern HD
+https://tvpass.org/live/tv-land-eastern/hd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV-One-logo-2016.png" group-title="Live",TV One SD
+https://tvpass.org/live/TVOne/sd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV-One-logo-2016.png" group-title="Live",TV One HD
+https://tvpass.org/live/TVOne/hd
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Live",Univision Eastern Feed SD
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Live",Univision Eastern Feed HD
+https://tvpass.org/live/UnivisionEast/hd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/1280px-Wetv-july-2024-logo.svg.png" group-title="Live",WE (Women's Entertainment) Eastern SD
+https://tvpass.org/live/WeTVEast/sd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/1280px-Wetv-july-2024-logo.svg.png" group-title="Live",WE (Women's Entertainment) Eastern HD
+https://tvpass.org/live/WeTVEast/hd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live",BET Her
+https://tvpass.org/live/BETHerEast/sd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/960px-Animal_Planet_logo.svg.png" group-title="Live",Animal Planet US East SD
+https://tvpass.org/live/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Live",Investigation Discovery USA Eastern HD
+https://tvpass.org/live/InvestigationDiscoveryEast/hd
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="Live",Boomerang
+https://tvpass.org/live/Boomerang/sd
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Live",Yes Network HD
+https://tvpass.org/live/yes-network/hd
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Live",A&E US Eastern Feed
+https://tvpass.org/live/AEEast/sd
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1280px-ACC_Network_ESPN_logo.svg.png" group-title="Live",ACC Network
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver" tvg-logo="https://www.ballarena.com/content/img/logos/1280px-Altitude_Sports_logo.svg.png" group-title="Live",Altitude Sports Denver
+https://tvpass.org/live/altitude-sports-denver/sd
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1280px-American_Heroes_Channel_logo.svg.png" group-title="Live",American Heroes Channel
+https://tvpass.org/live/AmericanHeroesChannel/sd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png" group-title="Live",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1280px-BET_Logo.svg.png" group-title="Live",BET Eastern Feed
+https://tvpass.org/live/BETEast/sd
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/1280px-PIX11_2017.svg.png" group-title="Live",WPIX New York (SUPERSTATION) SD
+https://tvpass.org/live/WPIX/sd
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1280px-Big_Ten_Network_Logo.svg.png" group-title="Live",Big Ten Network
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png" group-title="Live",Bloomberg TV USA
+https://tvpass.org/live/BloombergTV/sd
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Live",Yes Network SD
+https://tvpass.org/live/yes-network/sd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="Live",Bravo USA Eastern Feed
+https://tvpass.org/live/BravoEast/sd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1280px-C-SPAN_Logo_%282019%29.svg.png" group-title="Live",C-SPAN
+https://tvpass.org/live/CSPAN/sd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" tvg-logo="https://w7.pngwing.com/pngs/819/709/png-transparent-c-span-2-hd-logo.png" group-title="Live",C-SPAN 2
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Live",Cartoon Network USA Eastern Feed
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" group-title="Live",CMT US Eastern Feed
+https://tvpass.org/live/CMTEast/sd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="Live",CNN US
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Live",Crime & Investigation Network USA HD
+https://tvpass.org/live/CrimePlusInvestigation/sd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1280px-IFC_2018_logo.svg.png" group-title="Live",Independent Film Channel US
+https://tvpass.org/live/IFCEast/sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1280px-2024_Disney_Jr._Logo.svg.png" group-title="Live",Disney Junior USA East
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png" group-title="Live",Disney XD USA Eastern Feed
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 tvg-id="Fox.News.nz" tvg-name="Fox News" tvg-logo="" group-title="Live",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform East Feed" tvg-logo="" group-title="Live",Freeform East Feed
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="FUSE TV Eastern feed" tvg-logo="" group-title="Live",FUSE TV Eastern feed
+https://tvpass.org/live/FuseEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="FYI USA Eastern" tvg-logo="" group-title="Live",FYI USA Eastern
+https://tvpass.org/live/FYIEast/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="Game Show Network East" tvg-logo="" group-title="Live",Game Show Network East
+https://tvpass.org/live/game-show-network-east/sd
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV USA Eastern Feed" tvg-logo="" group-title="Live",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="truTV USA Eastern SD" tvg-logo="" group-title="Live",truTV USA Eastern SD
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="" group-title="Live",HLN
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/1280px-2024_Disney_Channel_text_logo.svg.png" group-title="Live",Disney Eastern Feed
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Live",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="ION Eastern Feed" tvg-logo="" group-title="Live",ION Eastern Feed
+https://tvpass.org/live/IONTVEast/sd
+#EXTINF:-1 tvg-id="logo.us" tvg-name="LOGO East" tvg-logo="" group-title="Live",LOGO East
+https://tvpass.org/live/LogoEast/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="Marquee Sports Network" tvg-logo="" group-title="Live",Marquee Sports Network
+https://tvpass.org/live/marquee-sports-network/sd
+#EXTINF:-1 tvg-id="NHL-NewJerseyDevils.us" tvg-name="MeTV Toons (WJLP2) New Jersey" tvg-logo="" group-title="Live",MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/live/metv-toons/sd
+#EXTINF:-1 tvg-id="NFL-NewYorkJets.us" tvg-name="MeTV Wjlp New Jerseynew York" tvg-logo="" group-title="Live",MeTV Wjlp New Jerseynew York
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="Midatlantic Sports Network" tvg-logo="" group-title="Live",Midatlantic Sports Network
+https://tvpass.org/live/midatlantic-sports-network/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="Monumental Sports Network" tvg-logo="" group-title="Live",Monumental Sports Network
+https://tvpass.org/live/monumental-sports-network/sd
+#EXTINF:-1 tvg-id="OutdoorChannel.au" tvg-name="Outdoor Channel US HD" tvg-logo="" group-title="Live",Outdoor Channel US HD
+https://tvpass.org/live/OutdoorChannel/hd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="NHL Network USA SD" tvg-logo="" group-title="Live",NHL Network USA SD
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="Nick Jr. East" tvg-logo="" group-title="Live",Nick Jr. East
+https://tvpass.org/live/NickJrEast/sd
+#EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="WPIX New York (SUPERSTATION) HD" tvg-logo="" group-title="Live",WPIX New York (SUPERSTATION) HD
+https://tvpass.org/live/WPIX/hd
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon USA East Feed" tvg-logo="" group-title="Live",Nickelodeon USA East Feed
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="Motor Trend HD" tvg-logo="" group-title="Live",Motor Trend HD
+https://tvpass.org/live/Motortrend/sd
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="MovieMax (Max 6) East" tvg-logo="" group-title="Live",MovieMax (Max 6) East
+https://tvpass.org/live/MovieMaxEast/sd
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="MSG Madison Square Gardens" tvg-logo="" group-title="Live",MSG Madison Square Gardens
+https://tvpass.org/live/msg-madison-square-gardens/sd
+#EXTINF:-1 tvg-id="msg.us" tvg-name="MSG Plus" tvg-logo="" group-title="Live",MSG Plus
+https://tvpass.org/live/msg-plus/sd
+#EXTINF:-1 tvg-id="MSNBC.au" tvg-name="MSNBC USA" tvg-logo="" group-title="Live",MSNBC USA
+https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV 2 East" tvg-logo="" group-title="Live",MTV 2 East
+https://tvpass.org/live/mtv-2-east/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="MTV USA Eastern Feed" tvg-logo="" group-title="Live",MTV USA Eastern Feed
+https://tvpass.org/live/MTVEast/sd
+#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="National Geographic US Eastern" tvg-logo="" group-title="Live",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="National Geographic Wild" tvg-logo="" group-title="Live",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1280px-American_Heroes_Channel_logo.svg.png" group-title="Live",American Heroes Channel HD
+https://tvpass.org/live/AmericanHeroesChannel/hd
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="MoreMax Eastern" tvg-logo="" group-title="Live",MoreMax Eastern
+https://tvpass.org/live/MoreMaxEast/sd
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nicktoons East" tvg-logo="" group-title="Live",Nicktoons East
+https://tvpass.org/live/NicktoonsEast/sd
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="Oprah Winfrey Network USA Eastern" tvg-logo="" group-title="Live",Oprah Winfrey Network USA Eastern
+https://tvpass.org/live/OWNEast/sd
+#EXTINF:-1 tvg-id="OutdoorChannel.au" tvg-name="Outdoor Channel US" tvg-logo="" group-title="Live",Outdoor Channel US
+https://tvpass.org/live/OutdoorChannel/sd
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen Eastern Feed" tvg-logo="" group-title="Live",Oxygen Eastern Feed
+https://tvpass.org/live/OxygenEast/sd
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="" group-title="Live",ReelzChannel
+https://tvpass.org/live/Reelz/sd
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="" group-title="Live",Science
+https://tvpass.org/live/Science/sd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="SEC Network" tvg-logo="" group-title="Live",SEC Network
+https://tvpass.org/live/SECN/sd
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" tvg-logo="" group-title="Live",Space City Home Network
+https://tvpass.org/live/space-city-home-network/sd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="History Channel US Eastern Feed" tvg-logo="" group-title="Live",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="Live",Boomerang HD
+https://tvpass.org/live/Boomerang/hd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png" group-title="Live",BBC News North America HD HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1280px-BET_Logo.svg.png" group-title="Live",BET Eastern Feed HD
+https://tvpass.org/live/BETEast/hd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live",BET Her HD
+https://tvpass.org/live/BETHerEast/hd
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1280px-Big_Ten_Network_Logo.svg.png" group-title="Live",Big Ten Network HD
+https://tvpass.org/live/BTN/hd
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png" group-title="Live",Bloomberg TV USA HD
+https://tvpass.org/live/BloombergTV/hd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png" group-title="Live",Bravo USA Eastern Feed HD
+https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1280px-C-SPAN_Logo_%282019%29.svg.png" group-title="Live",C-SPAN HD
+https://tvpass.org/live/CSPAN/hd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 HD" tvg-logo="https://w7.pngwing.com/pngs/819/709/png-transparent-c-span-2-hd-logo.png" group-title="Live",C-SPAN 2 HD
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Live",Cartoon Network USA Eastern Feed HD
+https://tvpass.org/live/CartoonNetworkEast/hd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="Chicago Sports Network SD" tvg-logo="" group-title="Live",Chicago Sports Network SD
+https://tvpass.org/live/chicago-sports-network/sd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="Golf Channel USA SD" tvg-logo="" group-title="Live",Golf Channel USA SD
+https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="Chicago Sports Network HD" tvg-logo="" group-title="Live",Chicago Sports Network HD
+https://tvpass.org/live/chicago-sports-network/hd
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax Eastern Feed SD" tvg-logo="" group-title="Live",Cinemax Eastern Feed SD
+https://tvpass.org/live/CinemaxEast/sd
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax Eastern Feed HD" tvg-logo="" group-title="Live",Cinemax Eastern Feed HD
+https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" group-title="Live",CMT US Eastern Feed HD
+https://tvpass.org/live/CMTEast/hd
+#EXTINF:-1 tvg-id="CNBC.au" tvg-name="CNBC USA SD" tvg-logo="" group-title="Live",CNBC USA SD
+https://tvpass.org/live/CNBC/sd
+#EXTINF:-1 tvg-id="CNBC.au" tvg-name="CNBC USA HD" tvg-logo="" group-title="Live",CNBC USA HD
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="Live",CNN US HD
+https://tvpass.org/live/CNN/hd
+#EXTINF:-1 tvg-id="Comedy.Central.nz" tvg-name="Comedy Central (US) Eastern Feed SD" tvg-logo="" group-title="Live",Comedy Central (US) Eastern Feed SD
+https://tvpass.org/live/ComedyCentralEast/sd
+#EXTINF:-1 tvg-id="Comedy.Central.nz" tvg-name="Comedy Central (US) Eastern Feed HD" tvg-logo="" group-title="Live",Comedy Central (US) Eastern Feed HD
+https://tvpass.org/live/ComedyCentralEast/hd
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business HD" tvg-logo="" group-title="Live",Fox Business HD
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America HD" tvg-logo="" group-title="Live",Destination America HD
+https://tvpass.org/live/DestinationAmerica/hd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Live",Discovery Channel (US) Eastern Feed HD
+https://tvpass.org/live/DiscoveryChannelEast/hd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Family_Logo_%282014%29.svg/1280px-Discovery_Family_Logo_%282014%29.svg.png" group-title="Live",Discovery Family Channel HD
+https://tvpass.org/live/DiscoveryFamily/hd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/960px-Discovery_Life_logo.svg.png" group-title="Live",Discovery Life Channel HD
+https://tvpass.org/live/DiscoveryLife/hd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/1280px-2024_Disney_Channel_text_logo.svg.png" group-title="Live",Disney Eastern Feed HD
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-name="ESPN2 HD" tvg-logo="" group-title="Live",ESPN2 HD
+https://tvpass.org/live/ESPN2/hd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png" group-title="Live",Disney XD USA Eastern Feed HD
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="ESPN.au" tvg-name="ESPN SD" tvg-logo="" group-title="Live",ESPN SD
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="ESPN.au" tvg-name="ESPN HD" tvg-logo="" group-title="Live",ESPN HD
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN Deportes SD" tvg-logo="" group-title="Live",ESPN Deportes SD
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN Deportes HD" tvg-logo="" group-title="Live",ESPN Deportes HD
+https://tvpass.org/live/espn-deportes/hd
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN News SD" tvg-logo="" group-title="Live",ESPN News SD
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN News HD" tvg-logo="" group-title="Live",ESPN News HD
+https://tvpass.org/live/ESPNews/hd
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN U SD" tvg-logo="" group-title="Live",ESPN U SD
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/960px-Animal_Planet_logo.svg.png" group-title="Live",Animal Planet US East HD
+https://tvpass.org/live/AnimalPlanetEast/hd
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-name="ESPN2 SD" tvg-logo="" group-title="Live",ESPN2 SD
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1280px-2024_Disney_Jr._Logo.svg.png" group-title="Live",Disney Junior USA East HD
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Tennessee.Nashville.us" tvg-name="Fanduel Sports Southeast Tennessee Nashville SD" tvg-logo="" group-title="Live",Fanduel Sports Southeast Tennessee Nashville SD
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Tennessee.Nashville.us" tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" tvg-logo="" group-title="Live",Fanduel Sports Southeast Tennessee Nashville HD
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
+#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.us" tvg-name="Fanduel Sports Sun SD" tvg-logo="" group-title="Live",Fanduel Sports Sun SD
+https://tvpass.org/live/fanduel-sports-sun/sd
+#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.us" tvg-name="Fanduel Sports Sun HD" tvg-logo="" group-title="Live",Fanduel Sports Sun HD
+https://tvpass.org/live/fanduel-sports-sun/hd
+#EXTINF:-1 tvg-id="FanDuel.Sports..-.Tennessee.East.us" tvg-name="Fanduel Sports Tennessee East SD" tvg-logo="" group-title="Live",Fanduel Sports Tennessee East SD
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports..-.Tennessee.East.us" tvg-name="Fanduel Sports Tennessee East HD" tvg-logo="" group-title="Live",Fanduel Sports Tennessee East HD
+https://tvpass.org/live/fanduel-sports-tennessee-east/hd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="Food Network USA Eastern Feed SD" tvg-logo="" group-title="Live",Food Network USA Eastern Feed SD
+https://tvpass.org/live/FoodNetworkEast/sd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="Food Network USA Eastern Feed HD" tvg-logo="" group-title="Live",Food Network USA Eastern Feed HD
+https://tvpass.org/live/FoodNetworkEast/hd
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Live",A&E US Eastern Feed HD
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="Golf Channel USA HD" tvg-logo="" group-title="Live",Golf Channel USA HD
+https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 tvg-id="Fox.News.nz" tvg-name="Fox News HD" tvg-logo="" group-title="Live",Fox News HD
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-id="FoxSportsUltraHD.au" tvg-name="Fox Sports 1 SD" tvg-logo="" group-title="Live",Fox Sports 1 SD
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="FoxSportsUltraHD.au" tvg-name="Fox Sports 2 SD" tvg-logo="" group-title="Live",Fox Sports 2 SD
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform East Feed HD" tvg-logo="" group-title="Live",Freeform East Feed HD
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="FUSE TV Eastern feed HD" tvg-logo="" group-title="Live",FUSE TV Eastern feed HD
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="Game Show Network East HD" tvg-logo="" group-title="Live",Game Show Network East HD
+https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="NHL Network USA HD" tvg-logo="" group-title="Live",NHL Network USA HD
+https://tvpass.org/live/NHLNetwork/hd
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV USA Eastern Feed HD" tvg-logo="" group-title="Live",HGTV USA Eastern Feed HD
+https://tvpass.org/live/HGTVEast/hd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="History Channel US Eastern Feed HD" tvg-logo="" group-title="Live",History Channel US Eastern Feed HD
+https://tvpass.org/live/HistoryEast/hd
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN HD" tvg-logo="" group-title="Live",HLN HD
+https://tvpass.org/live/HLN/hd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1280px-IFC_2018_logo.svg.png" group-title="Live",Independent Film Channel US HD
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN U HD" tvg-logo="" group-title="Live",ESPN U HD
+https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS East" tvg-logo="" group-title="Live",TBS East
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/960px-Universal_Kids_2019_Logo.svg.png" group-title="Live",Universal Kids
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="TNT Eastern Feed" tvg-logo="" group-title="Live",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="TMC (US) Eastern Feed" tvg-logo="" group-title="Live",TMC (US) Eastern Feed
+https://tvpass.org/live/TheMovieChannelEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="TLC USA Eastern" tvg-logo="" group-title="Live",TLC USA Eastern
+https://tvpass.org/live/TLCEast/sd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="The Weather Channel" tvg-logo="" group-title="Live",The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/sd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="The Cooking Channel" tvg-logo="" group-title="Live",The Cooking Channel
+https://tvpass.org/live/CookingChannel/sd
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo Eastern Feed" tvg-logo="" group-title="Live",Telemundo Eastern Feed
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="TeenNick Eastern" tvg-logo="" group-title="Live",TeenNick Eastern
+https://tvpass.org/live/TeenNickEast/sd
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy Eastern Feed" tvg-logo="" group-title="Live",Syfy Eastern Feed
+https://tvpass.org/live/SyfyEast/sd
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="SundanceTV USA East" tvg-logo="" group-title="Live",SundanceTV USA East
+https://tvpass.org/live/SundanceTVEast/sd
+#EXTINF:-1 tvg-id="starz.us" tvg-name="Starz Eastern" tvg-logo="" group-title="Live",Starz Eastern
+https://tvpass.org/live/StarzEast/sd
+#EXTINF:-1 tvg-id="MSNBC.au" tvg-name="MSNBC USA HD" tvg-logo="" group-title="Live",MSNBC USA HD
+https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 tvg-id="logo.us" tvg-name="LOGO East HD" tvg-logo="" group-title="Live",LOGO East HD
+https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 tvg-id="NHL-NewJerseyDevils.us" tvg-name="MeTV Toons (WJLP2) New Jersey HD" tvg-logo="" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
+https://tvpass.org/live/metv-toons/hd
+#EXTINF:-1 tvg-id="NFL-NewYorkJets.us" tvg-name="MeTV Wjlp New Jerseynew York HD" tvg-logo="" group-title="Live",MeTV Wjlp New Jerseynew York HD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="MSG Madison Square Gardens HD" tvg-logo="" group-title="Live",MSG Madison Square Gardens HD
+https://tvpass.org/live/msg-madison-square-gardens/hd
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime 2 Eastern SD" tvg-logo="" group-title="Live",Showtime 2 Eastern SD
+https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1 tvg-id="msg.us" tvg-name="MSG Plus HD" tvg-logo="" group-title="Live",MSG Plus HD
+https://tvpass.org/live/msg-plus/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="ION Eastern Feed HD" tvg-logo="" group-title="Live",ION Eastern Feed HD
+https://tvpass.org/live/IONTVEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="National Geographic US Eastern HD" tvg-logo="" group-title="Live",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="National Geographic Wild HD" tvg-logo="" group-title="Live",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="NFL Network SD" tvg-logo="" group-title="Live",NFL Network SD
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="NFL Network HD" tvg-logo="" group-title="Live",NFL Network HD
+https://tvpass.org/live/NFLNetwork/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="NFL RedZone SD" tvg-logo="" group-title="Live",NFL RedZone SD
+https://tvpass.org/live/NFLRedZone/sd
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="TeenNick Eastern HD" tvg-logo="" group-title="Live",TeenNick Eastern HD
+https://tvpass.org/live/TeenNickEast/hd
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Sportsnet West HD" tvg-logo="" group-title="Live",Sportsnet West HD
+https://tvpass.org/live/sportsnet-west/hd
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen Eastern Feed HD" tvg-logo="" group-title="Live",Oxygen Eastern Feed HD
+https://tvpass.org/live/OxygenEast/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="Nick Jr. East HD" tvg-logo="" group-title="Live",Nick Jr. East HD
+https://tvpass.org/live/NickJrEast/hd
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon USA East Feed HD" tvg-logo="" group-title="Live",Nickelodeon USA East Feed HD
+https://tvpass.org/live/NickelodeonEast/hd
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nicktoons East HD" tvg-logo="" group-title="Live",Nicktoons East HD
+https://tvpass.org/live/NicktoonsEast/hd
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-logo="" group-title="Live",Oprah Winfrey Network USA Eastern HD
+https://tvpass.org/live/OWNEast/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="NFL RedZone HD" tvg-logo="" group-title="Live",NFL RedZone HD
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-id="starz.us" tvg-name="Starz Eastern HD" tvg-logo="" group-title="Live",Starz Eastern HD
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel HD" tvg-logo="" group-title="Live",ReelzChannel HD
+https://tvpass.org/live/Reelz/hd
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science HD" tvg-logo="" group-title="Live",Science HD
+https://tvpass.org/live/Science/hd
+#EXTINF:-1 tvg-id="Food.Network.ie" tvg-name="SEC Network HD" tvg-logo="" group-title="Live",SEC Network HD
+https://tvpass.org/live/SECN/hd
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime Eastern Feed SD" tvg-logo="" group-title="Live",Showtime Eastern Feed SD
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime Eastern Feed HD" tvg-logo="" group-title="Live",Showtime Eastern Feed HD
+https://tvpass.org/live/ShowtimeEast/hd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet Ontario HD" tvg-logo="" group-title="Live",Sportsnet Ontario HD
+https://tvpass.org/live/sportsnet-ontario/hd
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network HD" tvg-logo="" group-title="Live",Space City Home Network HD
+https://tvpass.org/live/space-city-home-network/hd
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="Spectrum SportsNet LA SD" tvg-logo="" group-title="Live",Spectrum SportsNet LA SD
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="Spectrum SportsNet LA HD" tvg-logo="" group-title="Live",Spectrum SportsNet LA HD
+https://tvpass.org/live/spectrum-sportsnet-la/hd
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="Spectrum Sportsnet Lakers SD" tvg-logo="" group-title="Live",Spectrum Sportsnet Lakers SD
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="Spectrum Sportsnet Lakers HD" tvg-logo="" group-title="Live",Spectrum Sportsnet Lakers HD
+https://tvpass.org/live/spectrum-sportsnet/hd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet (East) SD" tvg-logo="" group-title="Live",Sportsnet (East) SD
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet 360 SD" tvg-logo="" group-title="Live",Sportsnet 360 SD
+https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet 360 HD" tvg-logo="" group-title="Live",Sportsnet 360 HD
+https://tvpass.org/live/sportsnet-360/hd
+#EXTINF:-1 tvg-id="One.nz" tvg-name="Sportsnet One SD" tvg-logo="" group-title="Live",Sportsnet One SD
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-id="One.nz" tvg-name="Sportsnet One HD" tvg-logo="" group-title="Live",Sportsnet One HD
+https://tvpass.org/live/sportsnet-one/hd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet Ontario SD" tvg-logo="" group-title="Live",Sportsnet Ontario SD
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet Pacific SD" tvg-logo="" group-title="Live",Sportsnet Pacific SD
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet Pacific HD" tvg-logo="" group-title="Live",Sportsnet Pacific HD
+https://tvpass.org/live/sportsnet-pacific/hd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet Pittsburgh SD" tvg-logo="" group-title="Live",Sportsnet Pittsburgh SD
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet Pittsburgh HD" tvg-logo="" group-title="Live",Sportsnet Pittsburgh HD
+https://tvpass.org/live/sportsnet-pittsburgh/hd
+#EXTINF:-1 tvg-id="travel.us" tvg-name="Travel US East" tvg-logo="" group-title="Live",Travel US East
+https://tvpass.org/live/TravelChannelEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="VH1 Eastern Feed" tvg-logo="" group-title="Live",VH1 Eastern Feed
+https://tvpass.org/live/VH1East/sd
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="USA Network East Feed" tvg-logo="" group-title="Live",USA Network East Feed
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="The Cooking Channel HD" tvg-logo="" group-title="Live",The Cooking Channel HD
+https://tvpass.org/live/CookingChannel/hd
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="SundanceTV USA East HD" tvg-logo="" group-title="Live",SundanceTV USA East HD
+https://tvpass.org/live/SundanceTVEast/hd
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy Eastern Feed HD" tvg-logo="" group-title="Live",Syfy Eastern Feed HD
+https://tvpass.org/live/SyfyEast/hd
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS East HD" tvg-logo="" group-title="Live",TBS East HD
+https://tvpass.org/live/TBSEast/hd
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Sportsnet West SD" tvg-logo="" group-title="Live",Sportsnet West SD
+https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo Eastern Feed HD" tvg-logo="" group-title="Live",Telemundo Eastern Feed HD
+https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Live",Crime & Investigation Network USA HD HD
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="The Tennis Channel SD" tvg-logo="" group-title="Live",The Tennis Channel SD
+https://tvpass.org/live/TennisChannel/sd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="The Tennis Channel HD" tvg-logo="" group-title="Live",The Tennis Channel HD
+https://tvpass.org/live/TennisChannel/hd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="The Weather Channel HD" tvg-logo="" group-title="Live",The Weather Channel HD
+https://tvpass.org/live/TheWeatherChannel/hd
+#EXTINF:-1 tvg-id="travel.us" tvg-name="Travel US East HD" tvg-logo="" group-title="Live",Travel US East HD
+https://tvpass.org/live/TravelChannelEast/hd
+#EXTINF:-1 tvg-id="Sportsnet+.Dummy.us" tvg-name="Sportsnet (East) HD" tvg-logo="" group-title="Live",Sportsnet (East) HD
+https://tvpass.org/live/sportsnet-east/hd
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime 2 Eastern HD" tvg-logo="" group-title="Live",Showtime 2 Eastern HD
+https://tvpass.org/live/Showtime2East/hd
+#EXTINF:-1 tvg-id="comcastsnynewyorksportsnet.us" tvg-name="SNY Sportsnet New York Comcast SD" tvg-logo="" group-title="Live",SNY Sportsnet New York Comcast SD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-id="comcastsnynewyorksportsnet.us" tvg-name="SNY Sportsnet New York Comcast HD" tvg-logo="" group-title="Live",SNY Sportsnet New York Comcast HD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
+#EXTINF:-1,===== MOVIES =====
+#
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hallmark_Channel_2022_logo.svg/1280px-Hallmark_Channel_2022_logo.svg.png" group-title="MOVIES",Hallmark Eastern Feed SD
+https://tvpass.org/live/HallmarkChannelEast/sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hallmark_Channel_2022_logo.svg/1280px-Hallmark_Channel_2022_logo.svg.png" group-title="MOVIES",Hallmark Eastern Feed HD
+https://tvpass.org/live/HallmarkChannelEast/hd
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/1280px-Hallmark_Family_2024.svg.png" group-title="MOVIES",Hallmark Family HD SD
+https://tvpass.org/live/HallmarkDrama/sd
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/1280px-Hallmark_Family_2024.svg.png" group-title="MOVIES",Hallmark Family HD HD
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="MOVIES",Turner Classic Movies USA
+https://tvpass.org/live/TCMEast/sd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1280px-FYI%2C_logo.svg.png" group-title="MOVIES",FYI USA Eastern HD
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/BBC_America_2022.svg/1280px-BBC_America_2022.svg.png" group-title="MOVIES",BBC America East
+https://tvpass.org/live/BBCAmericaEast/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="MOVIES",TNT Eastern Feed HD
+https://tvpass.org/live/TNTEast/hd
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="MOVIES",Turner Classic Movies USA HD
+https://tvpass.org/live/TCMEast/hd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/960px-Universal_Kids_2019_Logo.svg.png" group-title="MOVIES",Universal Kids HD
+https://tvpass.org/live/UniversalKidsEast/hd
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="USA Network East Feed HD" tvg-logo="" group-title="MOVIES",USA Network East Feed HD
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="VH1 Eastern Feed HD" tvg-logo="" group-title="MOVIES",VH1 Eastern Feed HD
+https://tvpass.org/live/VH1East/hd
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="AMC Eastern Feed" tvg-logo="" group-title="MOVIES",AMC Eastern Feed
+https://tvpass.org/live/AMCEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="TMC (US) Eastern Feed HD" tvg-logo="" group-title="MOVIES",TMC (US) Eastern Feed HD
+https://tvpass.org/live/TheMovieChannelEast/hd
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment USA Eastern Feed" tvg-logo="" group-title="MOVIES",E! Entertainment USA Eastern Feed
+https://tvpass.org/live/EEast/sd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hallmark_Mystery_2024.svg/1280px-Hallmark_Mystery_2024.svg.png" group-title="MOVIES",Hallmark Mystery Eastern HD HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="HBO Eastern Feed SD" tvg-logo="" group-title="MOVIES",HBO Eastern Feed SD
+https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="HBO Eastern Feed HD" tvg-logo="" group-title="MOVIES",HBO Eastern Feed HD
+https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="HBO 2 Eastern Feed SD" tvg-logo="" group-title="MOVIES",HBO 2 Eastern Feed SD
+https://tvpass.org/live/HBO2East/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="HBO 2 Eastern Feed HD" tvg-logo="" group-title="MOVIES",HBO 2 Eastern Feed HD
+https://tvpass.org/live/HBO2East/hd
+#EXTINF:-1 tvg-id="Comedy.HD.ie" tvg-name="HBO Comedy HD East SD" tvg-logo="" group-title="MOVIES",HBO Comedy HD East SD
+https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-1 tvg-id="Comedy.HD.ie" tvg-name="HBO Comedy HD East HD" tvg-logo="" group-title="MOVIES",HBO Comedy HD East HD
+https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 tvg-id="ABCFamilyHobart.au" tvg-name="HBO Family Eastern Feed SD" tvg-logo="" group-title="MOVIES",HBO Family Eastern Feed SD
+https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV 2 East HD" tvg-logo="" group-title="MOVIES",MTV 2 East HD
+https://tvpass.org/live/mtv-2-east/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="MTV USA Eastern Feed HD" tvg-logo="" group-title="MOVIES",MTV USA Eastern Feed HD
+https://tvpass.org/live/MTVEast/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="TLC USA Eastern HD" tvg-logo="" group-title="MOVIES",TLC USA Eastern HD
+https://tvpass.org/live/TLCEast/hd
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="AMC Eastern Feed HD" tvg-logo="" group-title="MOVIES",AMC Eastern Feed HD
+https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature (HBO 3) Eastern" tvg-logo="" group-title="MOVIES",HBO Signature (HBO 3) Eastern
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movies East" tvg-logo="" group-title="MOVIES",Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/sd
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="Lifetime Network US Eastern Feed" tvg-logo="" group-title="MOVIES",Lifetime Network US Eastern Feed
+https://tvpass.org/live/LifetimeEast/sd
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature (HBO 3) Eastern HD" tvg-logo="" group-title="MOVIES",HBO Signature (HBO 3) Eastern HD
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hallmark_Mystery_2024.svg/1280px-Hallmark_Mystery_2024.svg.png" group-title="MOVIES",Hallmark Mystery Eastern HD SD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="FX Movie Channel HD" tvg-logo="" group-title="MOVIES",FX Movie Channel HD
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/BBC_America_2022.svg/1280px-BBC_America_2022.svg.png" group-title="MOVIES",BBC America East HD
+https://tvpass.org/live/BBCAmericaEast/hd
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Entertainment USA Eastern Feed HD" tvg-logo="" group-title="MOVIES",E! Entertainment USA Eastern Feed HD
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="Test.Dummy.us" tvg-name="FX Movie Channel SD" tvg-logo="" group-title="MOVIES",FX Movie Channel SD
+https://tvpass.org/live/FXMovieChannel/sd
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="FX Networks East Coast SD" tvg-logo="" group-title="MOVIES",FX Networks East Coast SD
+https://tvpass.org/live/FXEast/sd
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="FX Networks East Coast HD" tvg-logo="" group-title="MOVIES",FX Networks East Coast HD
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="FXX USA Eastern SD" tvg-logo="" group-title="MOVIES",FXX USA Eastern SD
+https://tvpass.org/live/FXXEast/sd
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="FXX USA Eastern HD" tvg-logo="" group-title="MOVIES",FXX USA Eastern HD
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="ABCFamilyHobart.au" tvg-name="HBO Family Eastern Feed HD" tvg-logo="" group-title="MOVIES",HBO Family Eastern Feed HD
+https://tvpass.org/live/HBOFamilyEast/hd
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone HD East SD" tvg-logo="" group-title="MOVIES",HBO Zone HD East SD
+https://tvpass.org/live/HBOZoneEast/sd
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone HD East HD" tvg-logo="" group-title="MOVIES",HBO Zone HD East HD
+https://tvpass.org/live/HBOZoneEast/hd
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movies East HD" tvg-logo="" group-title="MOVIES",Lifetime Movies East HD
+https://tvpass.org/live/LifetimeMoviesEast/hd
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="Lifetime Network US Eastern Feed HD" tvg-logo="" group-title="MOVIES",Lifetime Network US Eastern Feed HD
+https://tvpass.org/live/LifetimeEast/hd
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="MoreMax Eastern HD" tvg-logo="" group-title="MOVIES",MoreMax Eastern HD
+https://tvpass.org/live/MoreMaxEast/hd
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="MovieMax (Max 6) East HD" tvg-logo="" group-title="MOVIES",MovieMax (Max 6) East HD
+https://tvpass.org/live/MovieMaxEast/hd
+#EXTINF:-1,===== NBA =====
+#
+#EXTINF:-1,===== NCAAF =====
+#
+#EXTINF:-1,===== NETWORK =====
+#
+#EXTINF:-1 tvg-id="NFL-NewYorkJets.us" tvg-name="NY SD" tvg-logo="" group-title="NETWORK",NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1 tvg-id="WVTVDT2.us" tvg-name="WVIT-DT1 (1080p)" tvg-logo="" group-title="NETWORK",WVIT-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
+#EXTINF:-1 tvg-id="MYWWOR.us" tvg-name="WWOR-DT1" tvg-logo="" group-title="NETWORK",WWOR-DT1
+http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+#EXTINF:-1 tvg-id="WXXA.us" tvg-name="WXXA-DT3" tvg-logo="" group-title="NETWORK",WXXA-DT3
+https://dvrfl04.tulix.tv/teleup-laff/mpegts
+#EXTINF:-1 tvg-id="nbc11kntv.us" tvg-name="KNSO 51.1 (1080p)" tvg-logo="" group-title="NETWORK",KNSO 51.1 (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
+#EXTINF:-1 tvg-id="SBSWorldWatchAdelaide.au" tvg-name="Watch it KID! (480i)" tvg-logo="" group-title="NETWORK",Watch it KID! (480i)
+https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="ABC (KABC) Los Angeles SD" tvg-logo="" group-title="NETWORK",ABC (KABC) Los Angeles SD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="ABC (KABC) Los Angeles HD" tvg-logo="" group-title="NETWORK",ABC (KABC) Los Angeles HD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="WTNH-DT1 (720p)" tvg-logo="" group-title="NETWORK",WTNH-DT1 (720p)
+https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="NY HD" tvg-logo="" group-title="NETWORK",NY HD
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 tvg-id="NHL-LosAngelesKings.us" tvg-name="CBS (KCBS) Los Angeles SD" tvg-logo="" group-title="NETWORK",CBS (KCBS) Los Angeles SD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="NHL-LosAngelesKings.us" tvg-name="CBS (KCBS) Los Angeles HD" tvg-logo="" group-title="NETWORK",CBS (KCBS) Los Angeles HD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="WTTW.us" tvg-name="WTTW-DT3" tvg-logo="" group-title="NETWORK",WTTW-DT3
+http://68.251.105.81:5004/auto/v11.3
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="CBS Sports Network USA SD" tvg-logo="" group-title="NETWORK",CBS Sports Network USA SD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.us" tvg-name="CBS Sports Network USA HD" tvg-logo="" group-title="NETWORK",CBS Sports Network USA HD
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+#EXTINF:-1 tvg-id="MLB-SanDiegoPadres.us" tvg-name="CW (KFMB-TV2) San Diego SD" tvg-logo="" group-title="NETWORK",CW (KFMB-TV2) San Diego SD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+#EXTINF:-1 tvg-id="MLB-SanDiegoPadres.us" tvg-name="CW (KFMB-TV2) San Diego HD" tvg-logo="" group-title="NETWORK",CW (KFMB-TV2) San Diego HD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#EXTINF:-1 tvg-id="MILB-ColumbiaFireflies.us" tvg-name="CW (WDCW) District of Columbia SD" tvg-logo="" group-title="NETWORK",CW (WDCW) District of Columbia SD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW (1080p)" tvg-logo="" group-title="NETWORK",NBC News NOW (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="Comedy.au" tvg-name="Comedy TV" tvg-logo="" group-title="NETWORK",Comedy TV
+https://dvrfl04.tulix.tv/teleup-comedytv/mpegts
+#EXTINF:-1 tvg-id="KETV.us" tvg-name="Ketchup TV (720p)" tvg-logo="" group-title="NETWORK",Ketchup TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+#EXTINF:-1 tvg-id="NBCKBMTDT2.us" tvg-name="KMCT-DT1 (720p)" tvg-logo="" group-title="NETWORK",KMCT-DT1 (720p)
+https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1
+#EXTINF:-1 tvg-id="NBCKNTV.us" tvg-name="KNTV-DT1 (1080p)" tvg-logo="" group-title="NETWORK",KNTV-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
+#EXTINF:-1 tvg-id="WTTW.us" tvg-name="WTTW-DT1" tvg-logo="" group-title="NETWORK",WTTW-DT1
+http://68.251.105.81:5004/auto/v11.1
+#EXTINF:-1 tvg-id="WTTW.us" tvg-name="WTTW-DT2" tvg-logo="" group-title="NETWORK",WTTW-DT2
+http://68.251.105.81:5004/auto/v11.2
+#EXTINF:-1 tvg-id="Setanta.Sports.DUMMY.us" tvg-name="NBC Sports Bay Area SD" tvg-logo="" group-title="NETWORK",NBC Sports Bay Area SD
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="NBCWBTS.us" tvg-name="WBTS-CD1 (1080p)" tvg-logo="" group-title="NETWORK",WBTS-CD1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+#EXTINF:-1 tvg-id="NFL-LosAngelesRams.us" tvg-name="FOX (KTTV) Los Angeles" tvg-logo="" group-title="NETWORK",FOX (KTTV) Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBC (KNBC) Los Angeles" tvg-logo="" group-title="NETWORK",NBC (KNBC) Los Angeles
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="WNJU.us" tvg-name="WNJU-DT1" tvg-logo="" group-title="NETWORK",WNJU-DT1
+https://moviezona593.com:8443/play/E3uopSwsAKpadqYs1Av4lwlP73vRcQvVo1k-yDXv27Y/m3u8
+#EXTINF:-1 tvg-id="ktla.us" tvg-name="KTLA-DT1" tvg-logo="" group-title="NETWORK",KTLA-DT1
+https://dvrfl04.tulix.tv/teleup-ktla/mpegts
+#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="KXAS-DT1 (1080p)" tvg-logo="" group-title="NETWORK",KXAS-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
+#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="NBC 5 Chicago Live News (1080p)" tvg-logo="" group-title="NETWORK",NBC 5 Chicago Live News (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+#EXTINF:-1 tvg-id="MILB-ColumbiaFireflies.us" tvg-name="CW (WDCW) District of Columbia HD" tvg-logo="" group-title="NETWORK",CW (WDCW) District of Columbia HD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="OCN TV" tvg-logo="" group-title="NETWORK",OCN TV
+https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+#EXTINF:-1 tvg-id="SNLVault.us" tvg-name="SNL Vault (1080p)" tvg-logo="" group-title="NETWORK",SNL Vault (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+#EXTINF:-1 tvg-id="WCAU.us" tvg-name="WCAU-DT1 (1080p)" tvg-logo="" group-title="NETWORK",WCAU-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
+#EXTINF:-1 tvg-id="wcbs.us" tvg-name="WCBS-DT1 (720p) [Geo-blocked]" tvg-logo="" group-title="NETWORK",WCBS-DT1 (720p) [Geo-blocked]
+https://tvpass.org/live/WCBSDT1/hd
+#EXTINF:-1 tvg-id="WCHSDT2.us" tvg-name="WGGS-DT1 (720p)" tvg-logo="" group-title="NETWORK",WGGS-DT1 (720p)
+https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="WNBC-DT1 (1080p)" tvg-logo="" group-title="NETWORK",WNBC-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
+#EXTINF:-1 tvg-id="WRC.us" tvg-name="WRC-DT1 (1080p)" tvg-logo="" group-title="NETWORK",WRC-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
+#EXTINF:-1 tvg-id="NFL-LosAngelesRams.us" tvg-name="FOX (KTTV) Los Angeles HD" tvg-logo="" group-title="NETWORK",FOX (KTTV) Los Angeles HD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBC (KNBC) Los Angeles HD" tvg-logo="" group-title="NETWORK",NBC (KNBC) Los Angeles HD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1,===== NHL =====
+#
+#EXTINF:-1 tvg-id="NHL-PhiladelphiaFlyers.us" tvg-name="Philadelphia Flyers @ Calgary Flames (12/31 9:30 PM ET)" tvg-logo="" group-title="NHL",Philadelphia Flyers @ Calgary Flames (12/31 9:30 PM ET)
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="NHL-TampaBayLightning.us" tvg-name="Tampa Bay Lightning @ Anaheim Ducks (12/31 4:00 PM ET)" tvg-logo="" group-title="NHL",Tampa Bay Lightning @ Anaheim Ducks (12/31 4:00 PM ET)
+https://tvpass.org/live/NHL08/sd
+#EXTINF:-1 tvg-id="NHL-WashingtonCapitals.us" tvg-name="New York Rangers @ Washington Capitals (12/31 12:30 PM ET)" tvg-logo="" group-title="NHL",New York Rangers @ Washington Capitals (12/31 12:30 PM ET)
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="NHL-VegasGoldenKnights.us" tvg-name="Nashville Predators @ Vegas Golden Knights (12/31 3:00 PM ET)" tvg-logo="" group-title="NHL",Nashville Predators @ Vegas Golden Knights (12/31 3:00 PM ET)
+https://tvpass.org/live/NHL12/sd
+#EXTINF:-1 tvg-id="NHL-SanJoseSharks.us" tvg-name="Minnesota Wild @ San Jose Sharks (12/31 4:00 PM ET)" tvg-logo="" group-title="NHL",Minnesota Wild @ San Jose Sharks (12/31 4:00 PM ET)
+https://tvpass.org/live/NHL11/sd
+#EXTINF:-1 tvg-id="NHL-DetroitRedWings.us" tvg-name="Winnipeg Jets @ Detroit Red Wings (12/31 6:30 PM ET)" tvg-logo="" group-title="NHL",Winnipeg Jets @ Detroit Red Wings (12/31 6:30 PM ET)
+https://tvpass.org/live/NHL01/sd
+#EXTINF:-1 tvg-id="NHL-ColumbusBlueJackets.us" tvg-name="New Jersey Devils @ Columbus Blue Jackets (12/31 7:00 PM ET)" tvg-logo="" group-title="NHL",New Jersey Devils @ Columbus Blue Jackets (12/31 7:00 PM ET)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="NHL-ColoradoAvalanche.us" tvg-name="St Louis Blues @ Colorado Avalanche (12/31 9:00 PM ET)" tvg-logo="" group-title="NHL",St Louis Blues @ Colorado Avalanche (12/31 9:00 PM ET)
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1,===== SPORTS (VOD) (VOD) =====
+#
+#EXTINF:-1 tvg-id="Wasp Network" tvg-name="W14DK-D 14.5 All Sports Television Network" tvg-logo="" group-title="SPORTS (VOD) (VOD)",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="Fox Sports 3 Latin America (1080p)" tvg-logo="" group-title="SPORTS (VOD) (VOD)",Fox Sports 3 Latin America (1080p)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes (360p)" tvg-logo="" group-title="SPORTS (VOD) (VOD)",ESPN Deportes (360p)
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1,===== TCMMOVIES (VOD) (VOD) =====
+#
+#EXTINF:-1 tvg-id="East of the Mountains" tvg-name="TCM East" tvg-logo="https://prod-images.tcm.com/img/global/logo-TCM-share-1200x630.jpg" group-title="TCMMOVIES (VOD) (VOD)",TCM East
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="Slow West" tvg-name="TCM West" tvg-logo="https://prod-images.tcm.com/img/global/logo-TCM-share-1200x630.jpg" group-title="TCMMOVIES (VOD) (VOD)",TCM West
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1,===== Ungrouped (VOD) (VOD) =====
+#
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="ION Plus (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",ION Plus (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KQED-DT2 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KQED-DT2 (1080p)
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KCMN-LD6 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KCMN-LD6 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KCTV-DT1 [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KCTV-DT1 [Geo-blocked]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kctv5news-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KDFW-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KDFW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KFTR-DT1 [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KIRO-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KIRO-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KMEX-DT1 [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KMEX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KMOV-DT1 [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KMOV-DT1 [Geo-blocked]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KMSP-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KMSP-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KNBC-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KNBC-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KOKI-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KOKI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRGV-DT2 [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KRGV-DT2 [Geo-blocked]
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KRIV-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KRIV-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KSAZ-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KSAZ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KSCN-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KSCN-DT1
+https://stream-losangeles.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KTBC-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KTBC-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTIV-DT6 (404p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KTIV-DT6 (404p)
+http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KTTV-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KTTV-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTVK-DT1 (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KTVK-DT1 (720p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUVN-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KUVN-DT1
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KVEA-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KVEA-DT1
+http://104.238.205.28:9090/278661_.m3u8
+#EXTINF:-1 tvg-id="FBI: International S01 E01" tvg-name="Documentary+ International (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Wasp Network" tvg-name="TVS Frontier Network (360p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Frontier Network (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WMBC-DT1 (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WMBC-DT1 (720p)
+http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WMBC-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WMBC-DT1
+http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WNJU-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WNJU-DT1
+http://104.238.205.28:9090/278678_.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WNYW-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WNYW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOIO-DT1 (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WOIO-DT1 (720p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Teen Titans GO! to the Movies" tvg-name="TVS Nostalgia Movies (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Nostalgia Movies (480p)
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="A Classic Horror Story" tvg-name="TVS Classic Movies (288p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Classic Movies (288p)
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="Drive My Car" tvg-name="TVS Drive In Movie (360p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Drive In Movie (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="Channel Zero S01 E01" tvg-name="TVS Family Channel (360p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Family Channel (360p)
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="Wasp Network" tvg-name="TVS Film Noir Network (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Film Noir Network (720p)
+https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-id="Flashback" tvg-name="TVS Flashback Network (360p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Flashback Network (360p)
+https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WLVT-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WLVT-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Hi Tops (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Hi Tops (720p)
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="Tri karte za Hollywood" tvg-name="TVS Hollywood History (582p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="They Shall Not Grow Old" tvg-name="TVS Mainstreet (360p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Mainstreet (360p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="Wasp Network" tvg-name="TVS Music Network (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Music Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Nostalgia (472p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TVS Nostalgia (472p)
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WKCF-DT2" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WKCF-DT2
+https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W14DK-D 14.1 TV Delmarva" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",W14DK-D 14.1 TV Delmarva
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W14DK-D 14.2 NEWSNET" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",W14DK-D 14.2 NEWSNET
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WAGA-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WAGA-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WHSV-DT4" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WHSV-DT4
+http://104.255.88.155/metv/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="XITE Nuevo Latino (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",XITE Nuevo Latino (1080p)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="XITE Siempre Latino (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",XITE Siempre Latino (1080p)
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior (1080i)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1280px-2024_Disney_Jr._Logo.svg.png" group-title="Ungrouped (VOD) (VOD)",Disney Junior (1080i)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WJLP-DT2 (360p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WJLP-DT2 (360p)
+https://e3.thetvapp.to/hls/metv-toons/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WGN-DT1 (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WGN-DT1 (720p)
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WGTV-DT3 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WGTV-DT3 (1080p)
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WHBQ-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WHIO-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WHIO-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Detroit" tvg-name="WHPS Detroit" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WHPS Detroit
+https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WHSG-DT4" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WHSG-DT4
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WITI-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WITI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WJAX-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WJAX-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WJBK-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WJBK-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WJLP-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WJLP-DT1
+https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WGAL-DT3 (1080p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WGAL-DT3 (1080p) [Geo-blocked]
+https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="XITE 90's Throwback (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",XITE 90's Throwback (1080p)
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WKMG-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WKMG-DT1
+https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WKOH-DT4" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WKOH-DT4
+https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WLMB (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WLMB (1080p)
+https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WLTV-DT1 [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WLTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WSB-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WSB-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="MTV Latin America" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",MTV Latin America
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="FX Latin America South (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",FX Latin America South (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-78_720.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="E! Latin America (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",E! Latin America (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
+#EXTINF:-1 tvg-id="\" tvg-name="Cinecanal South (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Cinecanal South (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62_720.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Cinecanal South (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Cinecanal South (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WUPA-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WUPA-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WPXI-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WPXI-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WPXX-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WPXX-DT1
+http://104.255.88.155/ion/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WSB-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WSB-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="National Geographic Latin America South (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",National Geographic Latin America South (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WSBS-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WSBS-DT1 (1080p)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WSCV-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WSCV-DT1
+http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WSOC Now (1080p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WSOC Now (1080p) [Geo-blocked]
+https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WSOC-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WSOC-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTMO-CD1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WTMO-CD1
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWON TV CH 48" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WWON TV CH 48
+https://tv2.fastcast4u.com:3943/stream/play.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WTXF-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WTXF-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WTVT-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WTVT-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WTVJ-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WTVJ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WTTG-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WTTG-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Pluto TV Futbol Para Fans (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Pluto TV Futbol Para Fans (1080p)
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WBTV-DT1 (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WBTV-DT1 (720p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WEDQ-DT4 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WEDQ-DT4 (1080p)
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WFLD-DT1 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WFLD-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WFTT-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WFTT-DT1
+https://stream-tampa.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WFUT-DT1 (720p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WFUT-DT1 (720p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="WFXT-DT2 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WFXT-DT2 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="Star Channel Latin America South (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Star Channel Latin America South (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WXIX-DT1 (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WXIX-DT1 (720p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WXTV-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WXTV-DT1
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Gi-Oh! (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Oh! (1080p)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="AMC Latin America (1280p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",AMC Latin America (1280p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Akaku 54 (Hawaii) (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Akaku 54 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="Lifetime Latin America (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Lifetime Latin America (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Telemundo Internacional (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="History 2 Latin America (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",History 2 Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="History Latin America South (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",History Latin America South (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WPIX-DT1" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",WPIX-DT1
+https://e1.thetvapp.to/hls/WPIX/index.m3u8
+#EXTINF:-1 tvg-id="Haunted: Latin America S01 E01" tvg-name="Comedy Central Latin America (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Comedy Central Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (576i)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Nickelodeon (576i)
+http://79.127.207.193/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Telemundo Internacional
+http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
+#EXTINF:-1 tvg-id="Her Sey Asktan" tvg-name="Revry Her (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Revry Her (720p)
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Revry LatinX" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Revry LatinX
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Roar (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Roar (1080p)
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-id="Kirk Franklin's A Gospel Christmas" tvg-name="RTH-TV2 Gospel (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",RTH-TV2 Gospel (720p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Showtime (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Showtime (1080p)
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="They Shall Not Grow Old" tvg-name="Spirit TV (720p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Spirit TV (720p) [Not 24/7]
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Starz (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Starz (1080p)
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Visible: Out On Television S01 E01" tvg-name="Story Television" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Just Kids" tvg-name="PBS Kids Hawaii (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",PBS Kids Hawaii (720p)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-id="24 Hours to Live" tvg-name="Talkin Live Classics TV (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Talkin Live Classics TV (480p)
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-id="\" tvg-name="Telemundo Al Dia" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Revry (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Revry (1080p)
+https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="East of the Mountains" tvg-name="Toonami Aftermath East (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="Aftermath" tvg-name="Toonami Aftermath Movies (540p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 tvg-id="A Night of Horror: Nightmare Radio" tvg-name="Toonami Aftermath Radio (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Toonami Aftermath Radio (480p)
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSTV (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TSTV (720p)
+https://reflector.watchtstv.com/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="TUDN (1080p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TUDN (1080p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="TUTV (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TUTV (1080p)
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="TV Asia (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",TV Asia (1080p)
+https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="NBC News NOW (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",NBC News NOW (1080p)
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Logos TV (1080p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Logos TV (1080p) [Not 24/7]
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="They Shall Not Grow Old" tvg-name="Logos TV (720p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Logos TV (720p) [Not 24/7]
+https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extrema TV (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy Central's Colossal Clusterfest" tvg-name="Comedy Central (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Comet (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Comet (1080p)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cozi TV (404p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Cozi TV (404p)
+http://173.225.32.123/Cozi-2358/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Create (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Create (1080p)
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="CVTV Channel 192 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",CVTV Channel 192 (1080p)
+https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="CVTV Channel 194 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",CVTV Channel 194 (1080p)
+https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Decades" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Decades
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
+#EXTINF:-1 tvg-id="Barb and Star Go to Vista Del Mar" tvg-name="Del Mar TV (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Del Mar TV (720p)
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Documentary+ (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="KVIE-DT2 (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",KVIE-DT2 (1080p)
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Logos TV English (1080p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Logos TV English (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
+#EXTINF:-1 tvg-id="A Classic Horror Story" tvg-name="FilmRise Classic TV (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",FilmRise Classic TV (720p)
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:-1 tvg-id="The House of Flowers S01 E01" tvg-name="Flowers TV USA" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="FNX (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",FNX (1080p)
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Grit Xtra (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Grit Xtra (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="High Vision (1080p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",High Vision (1080p) [Not 24/7]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-id="Hit & Run S01 E01" tvg-name="History Hit (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",History Hit (720p)
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HSN (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",HSN (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HSN2 (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",HSN2 (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="Slow West" tvg-name="HSN West (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",HSN West (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Stryk TV (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Stryk TV (1080p)
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Biz TV (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Biz TV (1080p)
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Paradise Beach" tvg-name="Beach TV CSULB (160p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV CSULB (160p) [Not 24/7]
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="The Florida Project" tvg-name="Beach TV Florida & Alabama (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV Florida & Alabama (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="The Florida Project" tvg-name="Beach TV Florida & Alabama (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV Florida & Alabama (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="The Florida Project" tvg-name="Beach TV Key West & Florida Keys (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV Key West & Florida Keys (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Pauline am Strand" tvg-name="Beach TV Myrtle Beach & The Grand Strand (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV Myrtle Beach & The Grand Strand (720p)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Pauline am Strand" tvg-name="Beach TV Myrtle Beach & The Grand Strand (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV Myrtle Beach & The Grand Strand (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Akaku 55 (Hawaii) (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Akaku 55 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 tvg-id="Panama" tvg-name="Beach TV Panama City (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV Panama City (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Binge" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Binge
+https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Biz TV (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Biz TV (1080p)
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/BBC_America_2022.svg/1280px-BBC_America_2022.svg.png" group-title="Ungrouped (VOD) (VOD)",BBC America HD
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BMC-HD TV (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",BMC-HD TV (720p)
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Bounce XL (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Bounce XL (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Charge! (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Charge! (1080p)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="A Classic Horror Story" tvg-name="Classic Arts Showcase (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Classic Arts Showcase (720p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="A Classic Horror Story" tvg-name="Classic Cinema (240p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Classic Cinema (240p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="SNL Vault (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",SNL Vault (1080p)
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="The Kardashians -- An ABC News Special" tvg-name="ABC (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",ABC (720p)
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACTV" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="AFTV (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",AFTV (1080p)
+https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Akaku 53 (Hawaii) (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Akaku 53 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="NEW K-POP (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="MBC 1 USA (1080p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",MBC 1 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="MBC 3 USA (1080p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="MBC America (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",MBC America (1080p)
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="MBC Drama USA (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="MBC Masr USA (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",MBC Masr USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:-1 tvg-id="Teen Titans GO! to the Movies" tvg-name="Movies! (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Movies! (480p)
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 tvg-id="Die Unfassbaren 2 - Now You See Me" tvg-name="MS NOW (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",MS NOW (720p)
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",CNBC (720p)
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="NBC West (San Diego) (1080p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",NBC West (San Diego) (1080p) [Not 24/7]
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="NBCLX (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",NBCLX (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="News12+ New York (1080p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",News12+ New York (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="Nickelodeon (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRB TV (480p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",NRB TV (480p)
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Qu est ce qu on a Encore fait au Bon Dieu" tvg-name="OAN Encore (720p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",OAN Encore (720p) [Geo-blocked]
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pars TV" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Pars TV
+http://dvrfl05.bozztv.com/gin-parstv/index.m3u8
+#EXTINF:-1 tvg-id="Just Kids" tvg-name="PBS Kids (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="Panama" tvg-name="Beach TV Panama City (720p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Beach TV Panama City (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Juzni Vetar 2 Ubrzanje   1080p" tvg-name="AMG TV (1080p)" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="They Shall Not Grow Old" tvg-name="Amga TV (720p) [Not 24/7]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",Amga TV (720p) [Not 24/7]
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 tvg-id="Qu est ce qu on a Encore fait au Bon Dieu" tvg-name="AWE Encore (720p) [Geo-blocked]" tvg-logo="" group-title="Ungrouped (VOD) (VOD)",AWE Encore (720p) [Geo-blocked]
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
